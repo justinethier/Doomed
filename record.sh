@@ -6,4 +6,5 @@
 #prboom-plus -width 1280 -height 720 -iwad PLUTONIA.WAD -complevel 4 -file PL2.WAD -timedemo pl2-map19-02.lmp -viddump pl2-map19-02.mkv
 
 #
-prboom-plus -width 1280 -height 720 -iwad PLUTONIA.WAD -complevel 4 -timedemo plutonia/map-18-uv-speed-01.lmp -viddump plutonia/map-18-01.mkv
+#prboom-plus -width 1280 -height 720 -iwad PLUTONIA.WAD -complevel 4 -timedemo plutonia/map-18-uv-speed-01.lmp -viddump plutonia/map-18-01.mkv
+prboom-plus -width 1280 -height 720 -iwad PLUTONIA.WAD -complevel 4 -timedemo plutonia/map17-uv-speed-16-seconds.lmp -viddump plutonia/map17-uv-speed-16-seconds.mkv
