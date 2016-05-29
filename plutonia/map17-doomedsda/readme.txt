@@ -6,7 +6,7 @@ Pwad name: Plutonia Experiment
 Maps:      17
 Skill:     4
 Category:  Speed
-Exe:       prboom (Version 2.5.1.3)
+Exe:       prboom+ (Version 2.5.1.3)
 
 Time:      0:16
 
