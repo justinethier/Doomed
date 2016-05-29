@@ -1,0 +1,17 @@
+Name/Alias: Justin Ethier
+Location: Baltimore
+Employer/School/Studies/Job: Software Engineering
+Homepage/eMail: justin dot ethier at gmail dot com
+
+DooM config (key bindings, controllers): keyboard/mouse (practice on iphone)
+Favourite DooM Maps: Plutonia Experiment
+Favorite Executable(s) to use: prboom-plus
+
+A few questions:
+2. Ever played multiplayer DooM? Played a lot back in the day but not for a long time.
+3. About when did you start playing DooM? 1994, 2004, etc...? 1994
+4. Do you make maps? I released a few back in the 90's.
+5. DOOM3? Was fun for awhile but classic doom will age much better.
+6. Favorite monster? Arch Vile
+7. Most hated monster? Icon of sin (no fun on a touch device)
+
