@@ -14,5 +14,5 @@ Author:   Justin Ethier
 Email:    justin.ethier@gmail.com
 HP:       https://plus.google.com/u/0/b/113743049742496559893/113743049742496559893
 
-Comments: 
-
+Comments: Recorded using options:
+          prboom-plus -skill 4 -iwad PLUTONIA.WAD -complevel 4 -warp 18
